@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb44a169-6262-4f3c-9fd7-fcb083916c83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Adobe Photoshop CS6.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jezici/Deutsche_Sprache__A1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jezici/English_-_Pre-Intermediate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/Baze_podataka_-_Uvod_u_SQL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/CSS skripta.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/Domain-Driven Design in PHP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/HTTP-protokol-i-Apache-server.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/JavaScript skripta.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/OOP PHP all.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/Osnove_programskog_jezika_PHP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/Sql.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/02_Uvod_ER_Modelovanje.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/04_Tipovi_Veza_i_Slozeni_id.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/05_Normalizacija_I_II_i_III_NF.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/06_Prevodjenje u Relacioni_model.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/11.1._Podupiti.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/11_1_Jednoredne_f-je-2014_SKRACENO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/11_2_Viseredne_f-je-2017.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/11_2_Viseredne_f-je-2017.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/11_Podupiti.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/3_ER_Modelovanje.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/7._Tabele_i_ogranicenja.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/8._Upiti_nad_jednom_tabelom.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/9_1_Tipovi_podataka-2014-SRKRACENO.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/9_2_Spajanje_tabela-2014_SKRACENO.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Nadtipovi i podtipovi entiteta.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/P2_Denormalizacija.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Predavanje_1_Uvod u baze podataka.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Studijski_primer_Agencija.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe 10 - resenja.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe 10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe 9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_1.1 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_1.2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_5_Normalne forme - REŠENJA.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_5_Normalne forme.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_6_-_resenja(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_7-converted.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_7_-_resenja.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/Vezbe_9_resenja.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_2 resenja.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_3_Modelovanje_veza-RESENJA.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_3_Modelovanje_veza.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_4_Modelovanje_veza_M-M Rešenja.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_4_Modelovanje_veza_M-M.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/baze_podataka/vezbe_6_prevodjenje_u_rel_model.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/beginning_php_and_mysql_from_novice_to_professional_4th_edition.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/javascript_osnove.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/klaric_magda_pmf_2018_diplo_sveuc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/laravel mat.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/oop php-basic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Materijal/php_i_mysql.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algoritmi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atom_atom.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../filezilla.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firefox.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gimp.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gitkraken_gitkraken.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../libreoffice-writer.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql-workbench.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../opera_opera.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../phpstorm_phpstorm.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/.idea/igrica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/endgame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/JSGame/js/igrica.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/danilovezba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/logo-speed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/avatari/nouser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/g2 (7).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/galerija.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/galerija/1582715975.5908.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/galerija/1582716090.8245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/galerija/1582716156.3053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/galerija/1582716164.6223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/logovi/logovanje.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/prikaz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/slike/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/.idea/sitecorrect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/asset/img/background-frontpage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/asset/img/background-info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/asset/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/asset/js/stickymenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/asset/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/sitecorrect/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/odlprojects/slic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/rac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Presentation/resources/lang/sr/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Presentation/resources/lang/sr/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Presentation/resources/lang/sr/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Presentation/resources/lang/sr/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/AppCore/DTO/BaseDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/AppCore/DTO/UsersDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/AppCore/Entities/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/AppCore/Interfaces/IUsersService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/Infrastructure/Repository/UsersRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/svettehnologija/Src/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/.idea/vezbe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 1a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 3a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/Apache 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin1/HTAccess fajl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin2/Apache 7 - Primeri modula Rewrite u htaccess fajlu.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin2/Apache 8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin2/ITA19AWSZI_termin2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin3/Apache 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin3/Apache 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin3/Apache 9-10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/Apache/ITA19AWSZI_termin4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/01 - Advanced JS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/mojabaza.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1/upiti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/.idea/p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p1v/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p2/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/ajax12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/ajax14.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/ajax15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/ajax9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/giphy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/avatari/nouser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/deleteproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/g3 (9).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582916752.4255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582916783.9622.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582916847.2366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582917839.6499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582917844.5544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582918461.9617.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582918461.9627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582918461.9636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582918461.9644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/galerije/1582918461.9652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/logovi/logovanja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/proizvodi_komentari sa logovanjem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/slike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/slike/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/logovi/logovanja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/popuniKorisnike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/popuniKorisnike2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/primer/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/primer/primer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/primer/stranica1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/primer/stranica2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/primer/stranica3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p3/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/ajax/ajax_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/ajax/popuniKorisnike2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/brisanje.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/avatari/nouser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/deleteproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/g3 (9).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582916752.4255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582916783.9622.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582916847.2366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582917839.6499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582917844.5544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582918461.9617.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582918461.9627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582918461.9636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582918461.9644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/galerije/1582918461.9652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/logovi/logovanja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/proizvodi_komentari sa logovanjem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/slike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/slike/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/obrada.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/obrada1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/obrada3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/obrada4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/postoji.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/update2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/p4/uploads/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/prezentacije/01 - Advanced JS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/prezentacije/03 - jQuery - AJAX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/prezentacije/04 - jQuery - upload binarnih datoteka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/ajs/prezentacije/ITA19AJAXBB_termin2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/ang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/script9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/ang/zastava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/_php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/_sablon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/bih.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/nm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/script9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p1/zastava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/02 - AngularJS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/script9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/servis7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/servis8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2/servis9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/.idea/p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/p2v/script6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/angular/prezentacije/01 - AngularJS1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/falsedelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/g3 (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p1/vesti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/citaj.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/clog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/destroycookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/dlog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/getcookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/kreiraj.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/podesavanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/setcookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/stranica.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/cookie/vlog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/destroysession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/g2 (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/getsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/profil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p2/setsession.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/avatari/nouser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/g2 (4).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/uploads/1580291345.6546.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/uploads/1580291345.6553.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3/uploads/1580291345.6563.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3v/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p3v/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/2020.02.05-ccc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/avatari/nouser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/g2 (5).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/logovi/logovanje.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/slike/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/aaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/append.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/bbb.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/ccc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/datoteka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/komentari.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/komentari2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/komentari2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/put.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p4/write.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/avatari/nouser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/deleteproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/g3 (8).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/logovi/logovanja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/proizvodi_komentari sa logovanjem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/slike/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p5/lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/avatari/nouser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/g2 (7).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/galerija.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/galerija/1582715975.5908.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/galerija/1582716090.8245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/galerija/1582716156.3053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/galerija/1582716164.6223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/logovi/logovanje.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/prikaz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/slike/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/ex1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/ex2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/exBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/exKlasa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/f1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/f2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/f3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/f4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/greske.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/p6/obradagresaka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/.idea/php-pdo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/php-pdo/upit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/prezentacije/01 - Uvod u SQL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/prezentacije/02 - Cookies i Sessions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/prezentacije/03 - Slanje binarnih podataka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/prezentacije/04 - rad sa datotekama.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/baphp/prezentacije/05 - Validacija i sanitizacija ulaznih podataka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/tipografija.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/type_primer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/vezba-sajt-lineweb.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/vezba-sajt-lineweb/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/vezba-sajt-lineweb/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/vezba-sajt-lineweb/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin1/vezba-sajt-lineweb/skica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/01 - tok-dokumenta.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin2/Lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/01 - boje.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/02 - background.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/.idea/v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/news1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/news2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/rek.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/reklama.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/img/reklama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/lineweb-gotov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/.idea/noew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/cogs-solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/logo_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/noew-skica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/noew-slika-zavrsen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/img/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/asset/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/noew/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/vezba-domaci-noew.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin3/vezba-lineweb2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/news1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/news2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/images/reklama.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/Lineweb2 g1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin4/semantika.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/logo_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/Noew g1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/flexbox.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/.idea/noew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/cogs-solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/logo_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/noew-skica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/noew-slika-zavrsen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/img/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/asset/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin5/noew/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/01 - napredni-selektori.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/02 - pseudo-klase.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/03 -pseudo-elementi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/__MACOSX/._hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/__MACOSX/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/__MACOSX/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/__MACOSX/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin6/full-width-sa-casa/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin7/Responsive primer.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin7/responsive.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin7/responsive2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin7/vezba-nova.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin8/animacije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin8/grid.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin8/nova-zavrsena.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin8/transform.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/ITA19DWVN_termin8/tranzicije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/.idea/v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/css/img/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/css/img/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/css/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/.idea/v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/news1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/news2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/rek.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/reklama.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/img/reklama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/dreamviwer-htmlcss/v2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/.idea/htmlcss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/crnjanski.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/css/img/Roman_provinces.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/css/img/slika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/css/stylemilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/css/stylerim.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/htmlcss/domaci5/rimskigradovi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p1/js/index9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/.idea/p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2/js/index9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/igrica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/js/igrica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p2v/js/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/.idea/p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3/slike/w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/.idea/p3v.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p3v/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/.idea/p4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4v/.idea/p4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4v/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/p4v/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/prezentacije/01_-_Uvod_u_JS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/prezentacije/02 - Kontrola toka_Objekti.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/prezentacije/03 - DOM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/js/prezentacije/04 - Forme.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVLP1_termin1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/mysql/ITA19MYSQLVL_termin8.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p2/index9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/if7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/oo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/switch1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/switch2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/switch3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/switch4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p3/to.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/.idea/p4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/dowhile1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/dowhile2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/for6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/foreach1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/foreach2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/foreach3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/while1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/while2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4/while3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/.idea/p5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/zadatak2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/zadatak3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p4v/zadatak4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/p5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/05 - Ugradjene funkcije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/niz6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/prom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/rand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/sablon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/string8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/vezba1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p5/vezba2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/.idea/p6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/06 - Korisnicke funkcije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/domaci.dani.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f14.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/f9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/funkcije2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/z1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/z1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/z2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p6/z2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/07 - HTML forme.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/dveforme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/f.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/forma.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/get1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/logovanje.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/logovanje1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7/redirekcija.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/.idea/p8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p7v/matematickeop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/08 - Rad sa bazama podataka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/g2 (1).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p8/vesti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/g2 (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/kalkulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classKalkulator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classOsoba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classOsoba3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classOsoba4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classOsoba5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classPoruka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classVest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/klase/classVestNiz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/vesti.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/p9/vesti2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/03 - Kontrole toka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/04 - Petlje.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/05 - Ugradjene funkcije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/06 - Korisnicke funkcije.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/07 - HTML forme.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/08 - Rad sa bazama podataka.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/09 - OOP.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/php/prezentacije/ITA19CPPBB_termin1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/accuweather.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/citajxml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/note.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/note.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/temeZaZavrsniRad_2018.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/test_DTD.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p1/xml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/06.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/fajl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/izPHP-a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/knjige.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/knjige2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/slike/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p2/z3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/06.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/07.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/knjige.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/knjige2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/_footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/_header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/_sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/avatari/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/avatari/nouser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/deleteproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/deleteuser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/funkcije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/g3 (9).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582916752.4255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582916783.9622.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582916847.2366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582917839.6499.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582917844.5544.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582918461.9617.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582918461.9627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582918461.9636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582918461.9644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/galerije/1582918461.9652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/index - Copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/lightbox.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/js/prijava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/klase/classBaza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/klase/classLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/komentari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/kontakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/logovi/korisnici.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/logovi/logovanja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/logovi/proizvodi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/odgovori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/pitanja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/prijava.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/proizvodi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/proizvodi_komentari sa logovanjem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/slike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/slike/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/slike/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/slike/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/statistika.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/lineweb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/moj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/p3/rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/prezentacije/01_Uvod_u_xml.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/prezentacije/02_SIMPLE_XML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/vezbe/xmlphp/prezentacije/03_DOM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zadatakfrontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/.idea/zoki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/ecommerce-domain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/project/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projects/zoki/webapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sublime_text.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../webstorm_webstorm.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/.idea/zoki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/LayeredArch-develop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Controllers/PostsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/doctrine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/migrations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/migrations/2020_06_14_211131_create_posts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/migrations/2020_06_19_201801_description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/posts.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/DTO/PostDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Entities/Description.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Entities/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Interfaces/ILog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Interfaces/IPostsRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Interfaces/IPostsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/AppCore/Services/PostsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/Infrastructure/Logs/Log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/Infrastructure/Repository/PostsRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Src/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/app/helpers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../blog/resources/views/layouts/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layeredarch/layeredarch/Presentation/resources/views/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../layeredarch/layeredarch/Presentation/resources/views/onepost.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../zoki/LayeredArch-develop/Presentation/resources/views/onepost.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1elNuQV5gaIyjJnq02PBwRqHJ1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb44a169-6262-4f3c-9fd7-fcb083916c83" name="Default Changelist" comment="" />
+      <created>1594892441697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594892441697</updated>
+      <workItem from="1594892443308" duration="9394000" />
+      <workItem from="1594923468713" duration="3174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
